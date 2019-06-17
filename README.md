@@ -1,10 +1,10 @@
-# Sofian's patched demenu
-====================
+# Sofian's patched dmenu
+------------
 This is just dmenu the following patches applied
 - Border Patch
 
 ## dmenu - dynamic menu
-====================
+------------
 dmenu is an efficient dynamic menu for X.
 
 
